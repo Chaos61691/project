@@ -1,0 +1,26 @@
+.fir {
+    font-size: 15px;
+    color: black;
+}
+
+.slo {
+    color: white;
+}
+
+form {
+    margin-top: 250px;
+    margin-left: 500px;
+    margin-right: 500px;
+    transition: 5.0s all;
+    border: 5px solid white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 25px;
+}
+
+
+
+body {
+    background-image: url(../static/img/minimal.png);
+}

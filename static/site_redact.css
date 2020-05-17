@@ -1,0 +1,16 @@
+.hello {
+    color: grey;
+    font-size: 100px;
+    padding-top: 250px;
+    padding-left: 550px;
+    transition: 5.0s all;
+}
+
+.hello:hover {
+    transform: rotate(0) scale(1.5);
+    transition: 5.0s all;
+}
+
+body {
+    background-image: url(../static/img/more.jpg);
+}
